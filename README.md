@@ -1,5 +1,8 @@
 Team Members: Sri Nithikhsa, Avneesh, Prashant Acharya, Anjitha.
-Reference: https://www.opsera.io/blog/13-code-quality-metrics-that-you-must-track
+
+Author Name: Gilbert Martin
+Reference URL: https://www.opsera.io/blog/13-code-quality-metrics-that-you-must-track
+Publish Date: March 1, 2023
 
 1. Readability/Clarity
 Readability is the most important code quality metric as it leads to higher levels of understanding of the code among other developers. 
@@ -22,25 +25,20 @@ Testability metric measures how well the code supports various testing processes
 It depends on your ability to control, isolate, and automate tests. You can measure the testability of your code and the number of tests it takes to identify potential faults in the code. 
 The size and the complexity level of the code impact the number of tests it takes to find any errors. Therefore, it is best to test at the code level, such as cyclomatic complexity, to improve testability.
 
-
-5. Maintainability
+6. Maintainability
 Code maintainability metric measures how easy it is to make changes to the code while keeping the risks associated with such changes as low as possible. 
 It can be evaluated by the number of lines of code within the application. If these lines are more than the average number, then the maintainability is inferred to be low. 
 
-
-
-6. Efficiency 
+7. Efficiency 
 The Efficiency metric is the measure of the number of assets that are leveraged to build the code. It also takes into account the time taken to run the code.
- An efficient code should take less time to build and is easy to debug. Ultimately an efficient code should be on par with the defined requirements and specifications. 
+An efficient code should take less time to build and is easy to debug. Ultimately an efficient code should be on par with the defined requirements and specifications. 
 
-
-
-
-Reference: https://dev.to/documatic/top-6-php-code-quality-tools-2023-2kb1
+Author: Bentil Shadrack for Documatic
+Reference URL: https://dev.to/documatic/top-6-php-code-quality-tools-2023-2kb1
+Published Date: May 30
 
 7. Code Analysis: Code quality tools perform static analysis of PHP code, scanning the entire codebase or specific files to identify potential issues. 
 They examine the code structure, syntax, and semantics, checking for errors, inconsistencies, and non-compliance with coding standards.
-
 
 8. Performance Analysis: Some code quality tools analyze the performance aspects of PHP code. 
 They identify potential bottlenecks, inefficient algorithms, and resource-heavy operations, enabling developers to optimize the code for better performance.
